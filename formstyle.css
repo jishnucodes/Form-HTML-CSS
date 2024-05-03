@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.form-container{
+    border: 10px solid black;
+    width: 50%;
+    text-align: center;
+    
+    background-color: aliceblue;
+    
+    
+   
+}
+.form-container h1{
+    color: rgb(205, 128, 11);
+    font-family: Times new roman;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.input-group{
+    margin-top: 15px;
+    
+}
